@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/React-Artist-Website/static/css/main.2b7dd3e8.chunk.css",
+    "main.js": "/React-Artist-Website/static/js/main.22b17c9b.chunk.js",
+    "main.js.map": "/React-Artist-Website/static/js/main.22b17c9b.chunk.js.map",
+    "runtime-main.js": "/React-Artist-Website/static/js/runtime-main.9d447977.js",
+    "runtime-main.js.map": "/React-Artist-Website/static/js/runtime-main.9d447977.js.map",
+    "static/css/2.6a901da2.chunk.css": "/React-Artist-Website/static/css/2.6a901da2.chunk.css",
+    "static/js/2.8f0157d2.chunk.js": "/React-Artist-Website/static/js/2.8f0157d2.chunk.js",
+    "static/js/2.8f0157d2.chunk.js.map": "/React-Artist-Website/static/js/2.8f0157d2.chunk.js.map",
+    "static/js/3.09299737.chunk.js": "/React-Artist-Website/static/js/3.09299737.chunk.js",
+    "static/js/3.09299737.chunk.js.map": "/React-Artist-Website/static/js/3.09299737.chunk.js.map",
+    "index.html": "/React-Artist-Website/index.html",
+    "static/css/2.6a901da2.chunk.css.map": "/React-Artist-Website/static/css/2.6a901da2.chunk.css.map",
+    "static/css/main.2b7dd3e8.chunk.css.map": "/React-Artist-Website/static/css/main.2b7dd3e8.chunk.css.map",
+    "static/js/2.8f0157d2.chunk.js.LICENSE.txt": "/React-Artist-Website/static/js/2.8f0157d2.chunk.js.LICENSE.txt",
+    "static/media/image1.25b46e1f.jpg": "/React-Artist-Website/static/media/image1.25b46e1f.jpg",
+    "static/media/image2.80979940.jpg": "/React-Artist-Website/static/media/image2.80979940.jpg",
+    "static/media/image3.3857a44d.jpg": "/React-Artist-Website/static/media/image3.3857a44d.jpg",
+    "static/media/image4.17bcceed.jpg": "/React-Artist-Website/static/media/image4.17bcceed.jpg",
+    "static/media/img1.d1dbdf88.jpg": "/React-Artist-Website/static/media/img1.d1dbdf88.jpg",
+    "static/media/img2.8aad5df3.jpg": "/React-Artist-Website/static/media/img2.8aad5df3.jpg",
+    "static/media/img3.69aa0f66.jpg": "/React-Artist-Website/static/media/img3.69aa0f66.jpg",
+    "static/media/styles.css": "/React-Artist-Website/static/media/revicons.e8746a62.woff",
+    "static/media/index.css": "/React-Artist-Website/static/media/runaway-back.fcce9029.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d447977.js",
+    "static/css/2.6a901da2.chunk.css",
+    "static/js/2.8f0157d2.chunk.js",
+    "static/css/main.2b7dd3e8.chunk.css",
+    "static/js/main.22b17c9b.chunk.js"
+  ]
+}
