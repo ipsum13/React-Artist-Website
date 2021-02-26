@@ -29,8 +29,7 @@ body:before {
 }
 
 .carousel-container img {
-  max-width: 100vw;
-  width: 70vw;
+  width: 100vw;
   height: 60vh;
   text-align: center;
   background: transparent;
@@ -39,9 +38,10 @@ body:before {
   justify-content: center;
 }
 .carousel-container {
-  width: 70vw;
+  width: 100vw;
   display: table;
   margin: 0 auto;
+  
 }
 .bungee {
   font-family: "Bungee Shade", cursive;
