@@ -47,19 +47,19 @@ class SliderImages extends Component {
         className="carousel"
       >
         <div>
-          <img src={image2} />
+          <img src={image2} alt="keith paluso" />
         </div>
 
         <div>
-          <img src={image1} />
+          <img src={image1} alt="keith paluso"  />
         </div>
 
         <div>
-          <img src={image3} />
+          <img src={image3} alt="keith paluso"  />
         </div>
 
         <div>
-          <img src={image4} />
+          <img src={image4} alt="keith paluso"  />
         </div>
       </Carousel>
     );

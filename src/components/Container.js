@@ -7,7 +7,7 @@ import VideoPlayer from './VideoPlayer.js';
 import SocialMedia from './SocialMedia.js';
 import Projects from './Projects.js';
 import About from './About.js';
-
+import Newsletter from './Newsletter'
 const style = {
     height: 'auto',
     position: 'relative'
@@ -27,6 +27,7 @@ export default class Container extends React.Component {
                 <SocialMedia/>
                 <ImageGrid/>
                 <Projects/>
+                <Newsletter />
             </div>
         );
     }

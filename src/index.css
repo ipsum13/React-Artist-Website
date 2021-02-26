@@ -1,5 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Bungee+Shade|Source+Sans+Pro");
 
+
+
 body {
   font-family: "Source Sans Pro", serif;
   -webkit-font-smoothing: antialiased;
@@ -78,3 +80,9 @@ p {
 .white {
   color: #fff;
 }
+
+#projects .showGrid p {
+  margin-left: 15px;
+}
+
+

@@ -1,7 +1,5 @@
 import React from 'react';
 import { Navbar, Nav } from 'react-bootstrap';
-import NavItemScroll from './NavItemScroll.js';
-import ScrollLite from './ScrollLite.js';
 
 const navObj = {
     title: 'KP',

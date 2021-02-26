@@ -25,13 +25,13 @@ export default class MusicPlayer extends React.Component {
                     </Col>
                     <Col xs={12} sm={6}>
                         <h3>I won't ask <i>- released October 6, 2020</i></h3>
-                        <iframe style={style} src={BandCamp.song1} seamless>
+                        <iframe style={style} title="I won't ask" src={BandCamp.song1} seamless>
                             <a href="https://keithpaluso.bandcamp.com/track/i-wont-ask-demo-version">i won't ask</a>
                         </iframe>
                     </Col>
                     <Col xs={12} sm={6}>
                         <h3>Something Like Love <i>- released September 29, 2020</i></h3>
-                        <iframe style={style} src={BandCamp.song2} seamless>
+                        <iframe style={style} title="Something like love" src={BandCamp.song2} seamless>
                             <a href="https://keithpaluso.bandcamp.com/track/something-like-love">Something Like Love</a>
                         </iframe>
                     </Col>

@@ -4,13 +4,6 @@ import image1 from "../images/img1.jpg";
 import image2 from "../images/img2.jpg";
 import image3 from "../images/img3.jpg";
 
-const gridObj = {
-    images: {
-        img_1: '../images/img1.jpg',
-        img_2: '../images/img2.jpg',
-        img_3: '../images/img3.webp'
-    }
-};
 
 export default class ImageGrid extends React.Component {
 

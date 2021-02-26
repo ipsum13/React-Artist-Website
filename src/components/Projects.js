@@ -11,9 +11,7 @@ export default class Projects extends React.Component {
                 <h1>Musical Projects </h1>
                 <Row className="showGrid">
                     <Col xs={12}>
-                        
                         <p>Check out my released songs on spotify.</p>
-                        <p><a href='https://open.spotify.com/artist/3hngoVzOQpWOq3eRAI20YM'>Spotify link</a></p>
                     </Col>
                 </Row>
             </Container>

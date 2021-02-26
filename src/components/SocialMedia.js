@@ -26,7 +26,7 @@ export default class SocialMedia extends React.Component {
                     </Col>
                     <Col xs={12} sm={6}>
                         <h3><span className="fa fa-facebook"></span></h3>
-                        <iframe src={MediaOutlet.facebook} style={style} frameBorder="0" allowtransparency="true"></iframe>
+                        <iframe src={MediaOutlet.facebook} title="facebook" style={style} frameBorder="0" allowtransparency="true"></iframe>
                     </Col>
                     <Col xs={12} sm={6}>
                         <h3><span className="fa fa-twitter"></span></h3>
