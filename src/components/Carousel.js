@@ -28,13 +28,13 @@ class SliderImages extends Component {
 
     return (
       <Carousel
-        swipeable={false}
-        draggable={false}
+        swipeable={true}
+        draggable={true}
         showDots={true}
         responsive={responsive}
         ssr={true} // means to render carousel on server-side.
         infinite={true}
-        autoPlay={this.props.deviceType !== "mobile" ? true : false}
+        autoPlay={true}
         autoPlaySpeed={5000}
         keyBoardControl={true}
         customTransition="all .5"
@@ -44,7 +44,7 @@ class SliderImages extends Component {
         deviceType={this.props.deviceType}
         dotListClass="custom-dot-list-style"
         itemClass="carousel-item-padding-40-px"
-        className="carousel"
+        
       >
         <div>
           <img src={image2} alt="keith paluso" />

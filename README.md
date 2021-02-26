@@ -22,3 +22,13 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
+
+## :link: Live Demo
+
+Here's a [live demo](https://ipsum13.github.io/React-Artist-Website/)
+
+<p align="center"> 
+  <kbd>
+<img src="https://res.cloudinary.com/sam13/image/upload/v1614315107/react-artist-wbpage_m8ebjt.png"></img>
+  </kbd>
+</p>
